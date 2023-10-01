@@ -5,7 +5,7 @@ This project demonstrates reading in data as props from JS objects, acting as mo
 Based on the response DOM elements will be dynamically populated and rendered.
 
 ## Screenshot:
-![screenshot](https://i.imgur.com/ajgOAZ0.png)
+![screenshot](https://i.imgur.com/tsHhPHu.png)
 
 ## Development:
 ### Setup / Creation: 
