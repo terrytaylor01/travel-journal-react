@@ -1,8 +1,11 @@
+
+
 *, body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
+  
 }
 
 .header {
@@ -32,13 +35,18 @@
   gap: 40px;
   padding: 50px 0px 50px 0px;
   margin: 0px 15px 0px 15px;
-  
+  transform: scale(1.05);
 }
 
 .card {
   max-width: 470px;
   height: 168px;
   display: flex;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.1s ease-in-out;
 }
 
 .card > img {
@@ -92,4 +100,13 @@
 .card-textcontent-location-icon {
   color: #F55A5A;
   font-size: 10px;
+}
+
+.footer  {
+  display: flex;
+  justify-content: center;
+  color: lightgray;
+  margin-top: 100px;
+  margin-bottom: 25px;
+  
 }

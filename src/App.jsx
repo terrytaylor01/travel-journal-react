@@ -1,5 +1,6 @@
 import Header from "./components/Header"
 import CardList from "./components/CardList"
+import Footer from "./components/Footer"
 
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
     <>
       <Header />
       <CardList />
-      
+      <Footer />
     </>
   )
 }

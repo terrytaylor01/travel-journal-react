@@ -3,6 +3,7 @@ import travelData from '../data.js'
 import Card from './Card'
 
 export default function CardList() {
+
     const tripData = travelData.map(trip => {
         return (
             <Card
@@ -11,7 +12,6 @@ export default function CardList() {
             />
         )
     })
-
 
   return (
     <div className='card-list'>
