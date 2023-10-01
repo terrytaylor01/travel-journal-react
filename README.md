@@ -1,8 +1,18 @@
-# React + Vite
+# Travel Journal
+Project that is being used while going through Scrimba's React course.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates reading in data as props from JS objects, acting as mock responses from an API.
+Based on the response DOM elements will be dynamically populated and rendered.
 
-Currently, two official plugins are available:
+## Screenshot:
+![screenshot](https://i.imgur.com/tsHhPHu.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Development:
+### Setup / Creation: 
+Vite + React
+### Built with: 
+HTML, Custom CSS, ReactJS.
+
+
+## Author:
+Terrence Taylor: [LinkedIn](https://www.linkedin.com/in/terrence-taylor-863ab71a7/)
